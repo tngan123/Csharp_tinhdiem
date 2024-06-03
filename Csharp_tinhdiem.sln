@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_tinhdiem", "Csharp_tinhdiem\Csharp_tinhdiem.csproj", "{D5AB219B-4E19-4FC3-A360-6627219A6465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5AB219B-4E19-4FC3-A360-6627219A6465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5AB219B-4E19-4FC3-A360-6627219A6465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5AB219B-4E19-4FC3-A360-6627219A6465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5AB219B-4E19-4FC3-A360-6627219A6465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E004B25-8A81-4589-A450-C8A8FA8BBF50}
+	EndGlobalSection
+EndGlobal
